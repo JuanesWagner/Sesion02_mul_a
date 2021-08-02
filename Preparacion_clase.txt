@@ -1,0 +1,13 @@
+Revise los temas:
+
+Coordenadas cartesianas
+Coordenadas polares
+Coordenadas cilíndricas
+Coordenadas esféricas
+
+Revise los links:
+
+https://es.wikipedia.org/wiki/Sistema_de_coordenadas
+http://prepa8.unam.mx/academia/colegios/matematicas/paginacolmate/applets/matematicas_V/Applets_Geogebra//coordpolares.html#:~:text=El%20sistema%20de%20coordenadas%20polares%20es%20un%20sistema%20de%20coordenadas,un%20%C3%A1ngulo%20y%20una%20distancia.&text=La%20distancia%20se%20conoce%20como,coordenada%20angular%20o%20%C3%A1ngulo%20polar.
+https://sites.google.com/site/calculovectorialhakim/coordenadas-cilindricas-y-esfericas
+
