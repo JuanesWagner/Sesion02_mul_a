@@ -19,8 +19,8 @@ public class Cartesiana {
     }
     
     public Polar cartesiano_polar(float x, float y) {
-        float radio = 0;   // Implementar la fórmula correcta
-        float angulo = 0;   // Implementar la fórmula correcta
+        float radio = ( float ) Math . sqrt ( Math . pow (y, 2 ) +  Math . pow (x, 2 ));   // Implementar la fórmula correcta
+        float angulo = (float) Math . atan (y/x);   // Implementar la fórmula correcta
         return new Polar(radio, angulo);
     }
 
